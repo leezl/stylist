@@ -1,3 +1,8 @@
 // Place all the styles related to the Appointments controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+html, body {
+    background: #33ccff asset-url('arches.png', image) repeat;
+    //background: #33ccff asset-url('diagonal_waves.png', image) repeat;
+}
